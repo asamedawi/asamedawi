@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**asamedawi/asamedawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a React Software Engineer.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Building web applications with React
+- ☁️ Working with AWS Amplify
+- 🌱 Currently building IoT products with Raspberry Pi & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, TypeScript
+- Cloud: AWS
+- Tools: Git, GitHub, Claude Code, Cursor, CodeRabbit
+
+## 📫 Contact
+- No contact info yet
